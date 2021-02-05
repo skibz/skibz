@@ -1,4 +1,4 @@
-<img src="hack-the-planet.gif" alt="hack theee plaaaaneeeet! hack the plaaaneeeeet! hack the planet!">
+<!--<img src="hack-the-planet.gif" alt="hack theee plaaaaneeeet! hack the plaaaneeeeet! hack the planet!">-->
 <!--<img src="ezgif.com-gif-maker.gif" alt="Get in loser, we're working in the open">-->
 
 <details>

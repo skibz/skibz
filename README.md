@@ -1,5 +1,5 @@
 <!--<img src="hack-the-planet.gif" alt="hack theee plaaaaneeeet! hack the plaaaneeeeet! hack the planet!">-->
-<!--<img src="ezgif.com-gif-maker.gif" alt="Get in loser, we're working in the open">-->
+<img src="ezgif.com-gif-maker.gif" alt="Get in loser, we're working in the open">
 
 <details>
   <summary>other places you'll find me hanging out</summary>

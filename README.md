@@ -1,2 +1,2 @@
 
-<img src="hack-the-planet.gif" alt="htp">
+<img src="nameless.gif" alt="htp">

@@ -1,2 +1,2 @@
 
-<img align="center" src="nameless.gif" alt="we are nameless">
+<img style="text-align: center;" src="nameless.gif" alt="we are nameless">

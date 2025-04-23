@@ -1,2 +1,2 @@
 
-<img src="cyberdelia-ezgif.com-speed.gif" alt="cyberdelia">
+<img src="tv-ezgif.com-resize.gif">

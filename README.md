@@ -1,2 +1,2 @@
 
-<img src="spinner purge.gif">
+<img src="spinner-purge.gif">

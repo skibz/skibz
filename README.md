@@ -1,2 +1,2 @@
 
-<img src="tv-ezgif.com-resize.gif">
+<img src="spinner purge.gif">
